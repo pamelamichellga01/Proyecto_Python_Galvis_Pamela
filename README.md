@@ -1,5 +1,7 @@
 # Proyecto_Python_Galvis_Pamela
 
+> **Nota:** Este es un proyecto académico realizado con la finalidad de consolidar los conocimientos adquiridos en el módulo de Python.
+
 Una compañía de transportes y logística desea desarrollar un programa en Python que permita llevar el registro y control de todos los envíos, recepción y reparto de paquetes. Este sistema facilita la gestión integral de clientes, envíos y el seguimiento de paquetes, optimizando la operación y mejorando la experiencia tanto de empleados como de clientes.
 
 ---
@@ -129,3 +131,4 @@ Puedes clonar o consultar el repositorio en el siguiente enlace:
 [https://github.com/pamelamichellga01/Proyecto_Python_Galvis_Pamela.git](https://github.com/pamelamichellga01/Proyecto_Python_Galvis_Pamela.git)
 
 ---
+
